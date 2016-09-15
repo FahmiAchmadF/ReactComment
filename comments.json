@@ -6,7 +6,22 @@
     },
     {
         "id": 1420070400000,
-        "author": "Paul O’Shannessy",
+        "author": "Paul O\u2019Shannessy",
         "text": "React is *great*!"
+    },
+    {
+        "id": 1473870601521,
+        "author": "Jajang",
+        "text": "Kumaha damang?"
+    },
+    {
+        "id": 1473908239269,
+        "author": "Fahmi",
+        "text": "Finaly Finish it!"
+    },
+    {
+        "id": 1473909018786,
+        "author": "Yola",
+        "text": "you did it in reactJs???"
     }
 ]
